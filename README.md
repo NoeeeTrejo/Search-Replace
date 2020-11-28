@@ -1,6 +1,9 @@
 # Search-Replace
 Search &amp; Replace!
 - Finds and searched for some word in a text file and replaces every instance of it! 
+ 
+## How to use it:
+- Compile the code and run main!
 
 ## Included Files:
 - The whole Shrek script. 
